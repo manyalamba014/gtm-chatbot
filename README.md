@@ -49,4 +49,4 @@ Your API key is stored only in your browser's local storage and is never sent an
 
 ## About
 
-Built by Manya as part of a GTM portfolio project targeting sales and AI engineer roles. The goal was to show how AI can be applied practically to real GTM workflows — not just as a demo, but as a tool someone would actually use day-to-day.
+Built by Manya as part of a GTM portfolio project targeting sales and AI engineer roles. The goal was to show how AI can be applied practically to real GTM workflows, not just as a demo, but as a tool someone would actually use day-to-day.
